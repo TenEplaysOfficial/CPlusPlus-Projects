@@ -4,10 +4,10 @@ This repository contains a collection of projects written in **C++**. Each proje
 
 ## Projects
 
-1. **[Registration and Login System](./Registration-and-Login-System/)**  
+1. **[Registration and Login System](./Registration%20and%20Login%20System/)**  
    * Description: A user authentication system that includes features such as user registration, email validation using regular expressions, password length validation, and secure password management. The system also provides options for resetting passwords. This project demonstrates the use of basic file handling, regex, and security measures in C++.
 
-2. **[Rock Paper Scissors](./Rock-Paper-Scissors/)**  
+2. **[Rock Paper Scissors](./Rock%20Paper%20Scissors/)**  
    * Description: A simple console-based implementation of the classic Rock-Paper-Scissors game. This project covers concepts like control flow, random number generation, and user interaction in a game format. It allows players to compete against the computer, with real-time input handling and result display.
 
 ## How to Use
